@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **data science and AI**
 
-- 📫 How to reach me **send a message on linkedn**
+- 📫 How to reach me, **send a message on linkedn**
 
 - ⚡ Fun fact **I love action adventure movies from the 90's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-alberto-pareschi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-alberto-pareschi/" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-alberto-pareschi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-alberto-pareschi/" height="60" width="70" /></a>
 </p>
 
 
@@ -19,17 +19,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=carlospareschi&show_icons=true&locale=en" alt="carlospareschi" /></p>
 
-<!--
-**CarlosPareschi/CarlosPareschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
