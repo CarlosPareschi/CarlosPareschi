@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **tatomatematica@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/carlos-alberto-pareschi/](https://www.linkedin.com/in/carlos-alberto-pareschi/)
-
 - ⚡ Fun fact **I love action adventure movies from the 90's**
 
 <h3 align="left">Connect with me:</h3>
